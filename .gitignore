@@ -1,10 +1,4 @@
---[[
-	Made by JohnnyDoe
-	
-	Note: Only things not made by me were the FOV checker and getrandomstring() function
-]]--
-
-_G.aimDebug = true --FOV Checker is still wonky - Keep this setting on or you can't have FOV checker on
+_G.aimDebug = true 
 
 --Stuff you can customize
 local settings = {
