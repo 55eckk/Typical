@@ -516,8 +516,6 @@ InputEnded = gUIS.InputEnded:Connect(function(key)
 	end
 end)
 
-print("Loaded A Typical Aimbot")
-
 else
 warn("Something in settings was invalid! Check your binds and color settings!")
 end
